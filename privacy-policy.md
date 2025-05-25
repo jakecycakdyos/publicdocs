@@ -2,19 +2,19 @@
 
 **Last updated:** May 25, 2025
 
-Thank you for choosing VSTP Calculator (“we,” “our,” “us”). This Privacy Policy explains how we collect, use, and safeguard your data when you use our iOS app.
+Thank you for choosing to use our apps (“we,” “our,” “us”). This Privacy Policy explains how we collect, use, and safeguard your data when you use our iOS apps.
 
 ## Information We Collect
 
-- **Tier Point Data**  
-  We collect no personal information—only the cabin class, booking code, and your current tier‑point balance which you voluntarily enter.
+- **App Data**  
+  We collect no personal information from you.
 
 - **Crash Logs & Diagnostics**  
   With your permission, the app may send anonymized crash reports to help us improve stability.
 
 ## Use of Information
 
-We use the data you enter solely to calculate and display your current and projected Virgin Atlantic tier‑point status. No data is shared with third parties.
+We use the data you enter solely to calculate and display. No data is shared with third parties.
 
 ## Data Storage & Security
 
